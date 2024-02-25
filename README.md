@@ -18,6 +18,8 @@
 |![](assets/1f61c.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f61c.png" width="32">|
 |![](assets/1f9c0.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9c0.png" width="32">|
 |![](assets/1f9c1.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9c1.png" width="32">|
+|![](assets/1f63a.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f63a.png" width="32">|
+|![](assets/1f603.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f603.png" width="32">|
 |![](assets/263a.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/263a.png" width="32">|
 
 
