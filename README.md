@@ -15,13 +15,14 @@
 |![](assets/1f3de.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3de.png" width="32">|
 |![](assets/1f4a1.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f4a1.png" width="32">|
 |![](assets/1f4db.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f4db.png" width="32">|
-|![](assets/1f61c.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f61c.png" width="32">|
+|![](assets/1f6a0.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f6a0.png" width="32">|
+|![](assets/1f6cb.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f6cb.png" width="32">|
 |![](assets/1f9c0.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9c0.png" width="32">|
 |![](assets/1f9c1.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9c1.png" width="32">|
+|![](assets/1f9d1-200d-1f393.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9d1-200d-1f393.png" width="32">|
+|![](assets/1f61c.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f61c.png" width="32">|
 |![](assets/1f63a.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f63a.png" width="32">|
 |![](assets/1f600.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f600.png" width="32">|
 |![](assets/1f603.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f603.png" width="32">|
 |![](assets/1f642.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f642.png" width="32">|
 |![](assets/263a.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/263a.png" width="32">|
-
-
