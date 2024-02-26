@@ -3,7 +3,7 @@
 # Style
 
 | peachmoji | twemoji | peachmoji | twemoji | peachmoji | twemoji |
-|---|---|
+|---|---|---|---|---|---|
 |![](assets/1f0cf.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f0cf.png" width="32">|![](assets/1f1e6-1f1f7.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e6-1f1f7.png" width="32">|![](assets/1f1e6.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e6.png" width="32">|
 |![](assets/1f1e7.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e7.png" width="32">|![](assets/1f1f0-1f1f7.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1f0-1f1f7.png" width="32">|![](assets/1f3a4.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3a4.png" width="32">|
 |![](assets/1f3b4.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3b4.png" width="32">|![](assets/1f3b8.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3b8.png" width="32">|![](assets/1f3c5.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3c5.png" width="32">|
