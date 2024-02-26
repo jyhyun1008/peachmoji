@@ -26,3 +26,12 @@
 |![](assets/1f603.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f603.png" width="32">|
 |![](assets/1f642.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f642.png" width="32">|
 |![](assets/263a.png)|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/263a.png" width="32">|
+
+## Smileys & Emotion
+
+Face-smiling
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|
+|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f600.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f603.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f604.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f601.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f606.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f605.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f923.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f602.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f642.png" width="32">|<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f643.png" width="32">|
+|![](assets/1f600.png)|![](assets/1f603.png)|![](assets/1f604.png)|![](assets/1f601.png)|![](assets/1f606.png)|![](assets/1f605.png)|![](assets/1f923.png)|![](assets/1f602.png)|![](assets/1f642.png)|![](assets/1f643.png)|
