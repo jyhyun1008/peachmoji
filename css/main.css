@@ -1,13 +1,47 @@
 @import url('https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
 
 body {
-    font-family: Galmuri11, 'Noto Sans KR','Noto Sans','Noto Sans CJK KR','Spoqa Han Sans','NanumBarunGothic','Nanum Gothic','KoPub Dotum','Malgun Gothic','맑은 고딕', sans-serif;
+    font-family: Galmuri11, sans-serif;
+    background: #ff9899;
+}
+
+#root {
+    width: 100vw;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.title {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff9899;
+    margin-bottom: 20px;
+}
+
+.title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.page_title {
+    font-size: 1.3em;
+    margin-bottom: 20px;
 }
 
 .emoji_list {
     display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
 }
 
 .emoji_compare {
     display: flex;
+    padding: 10px 10px 5px 10px;
+    border-radius: 15px;
+    background: #eee;
+    gap: 5px;
 }

@@ -143,7 +143,7 @@ if (!page) {
     fetch(url)
     .then(res => res.text())
     .then((out) => {
-        document.querySelector(".page_title").innerText = 'Home'
+        document.querySelector(".page_title").innerText = 'List'
         var result = JSON.parse(out).tree
         result.sort((a, b) => parseInt(a.path.split('.')[1]) - parseInt(b.path.split('.')[1]));
         document.querySelector(".page_content").innerHTML += '<div class="emoji_list"></div>'
