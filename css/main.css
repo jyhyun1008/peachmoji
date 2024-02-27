@@ -50,3 +50,7 @@ body {
     background: #f7caca;
     gap: 5px;
 }
+
+.twemoji, .peachmoji {
+    filter: drop-shadow(1px 1px 0 white) drop-shadow(-1px -1px 0 white) drop-shadow(1px -1px 0 white) drop-shadow(-1px 1px 0 white);
+}
