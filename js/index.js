@@ -139,7 +139,7 @@ var page = qs.p;
 
 
 if (!page) {
-    var url = "https://api.github.com/"+userName+"/"+repoName+"/git/trees/f3f483508e430bc84813629d7e7fc532813ac436"
+    var url = "https://api.github.com/repos/"+userName+"/"+repoName+"/git/trees/f3f483508e430bc84813629d7e7fc532813ac436"
     fetch(url)
     .then(res => res.text())
     .then((out) => {
