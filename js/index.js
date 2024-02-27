@@ -148,7 +148,7 @@ if (!page) {
         result.sort((a, b) => parseInt(a.path.split('.')[1]) - parseInt(b.path.split('.')[1]));
         document.querySelector(".page_content").innerHTML += '<div class="emoji_list"></div>'
         for (var i=0; i<result.length; i++) {
-            document.querySelector(".emoji_list").innerHTML += '<div class="emoji_compare"><div class="twemoji"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/'+result[i].path+'" width="32"></div><div class="peachmoji"><img src="/assets/'+result[i].path+'" width="32"></div></div>'
+            document.querySelector(".emoji_list").innerHTML += '<div class="emoji_compare"><div class="twemoji"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/'+result[i].path+'" width="32"></div><div class="peachmoji"><img src="./assets/'+result[i].path+'" width="32"></div></div>'
         }
     })
     .catch(err => { throw err });
