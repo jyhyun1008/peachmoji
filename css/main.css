@@ -2,18 +2,16 @@
 
 body {
     font-family: Galmuri11, sans-serif;
-    background-color: #eee;
-    opacity: 0.8;
-    background-image:  linear-gradient(#ff9899 2px, transparent 2px), linear-gradient(90deg, #ff9899 2px, transparent 2px), linear-gradient(#ff9899 1px, transparent 1px), linear-gradient(90deg, #ff9899 1px, #eee 1px);
-    background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
-    background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+    background-color: #ff9899;
+    background: radial-gradient(circle, transparent 20%, #ff9899 20%, #ff9899 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #ff9899 20%, #ff9899 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#eee 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #eee 2px, #ff9899 2px) -1px 0;
+    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
 }
 
 #root {
     width: 100vw;
     max-width: 800px;
-    margin: 0 auto;
-    background: #fff;
+    margin: 50px auto;
+    background: #ffffffc2;
     padding: 10px;
     border-radius: 15px;
 }
