@@ -14,6 +14,7 @@ body {
     background: #ffffffc2;
     padding: 10px;
     border-radius: 15px;
+    border: 3px dashed #ff5555;
 }
 
 .title {
@@ -21,6 +22,7 @@ body {
     font-weight: bold;
     color: #ff9899;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .title a {
@@ -31,6 +33,7 @@ body {
 .page_title {
     font-size: 1.3em;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .emoji_list {
