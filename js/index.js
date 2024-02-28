@@ -139,17 +139,22 @@ var page = qs.p;
 
 
 if (!page) {
-    var url = "https://api.github.com/repos/"+userName+"/"+repoName+"/git/trees/f3f483508e430bc84813629d7e7fc532813ac436"
+    var url = "https://api.github.com/repos/"+userName+"/"+repoName+"/git/trees/main"
     fetch(url)
     .then(res => res.text())
     .then((out) => {
+        var resulturl = JSON.parse(out).tree[2].url
+	fetch(resulturl)
+	.then(res2 => res2.text( ))
+	.then((out2) => {
+        var result = JSON.parse(out2).tree
         document.querySelector(".page_title").innerText = 'List'
-        var result = JSON.parse(out).tree
         result.sort((a, b) => parseInt(a.path.split('.')[1]) - parseInt(b.path.split('.')[1]));
         document.querySelector(".page_content").innerHTML += '<div class="emoji_list"></div>'
         for (var i=0; i<result.length; i++) {
             document.querySelector(".emoji_list").innerHTML += '<div class="emoji_compare"><div class="twemoji"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/'+result[i].path+'" width="32"></div><div class="peachmoji"><img src="./assets/'+result[i].path+'" width="32"></div></div>'
         }
+	}
     })
     .catch(err => { throw err });
 } else if (page) {
