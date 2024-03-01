@@ -149,7 +149,7 @@ if (!page) {
 	.then((out2) => {
         var result = JSON.parse(out2).tree
         document.querySelector(".page_title").innerText = 'List'
-        result.sort((a, b) => parseInt(a.path.split('.')[1]) - parseInt(b.path.split('.')[1]));
+        result.sort((a, b) => parseInt(a.path.split('.')[0]) - parseInt(b.path.split('.')[0]));
         document.querySelector(".page_content").innerHTML += '<div class="emoji_list"></div>'
         for (var i=0; i<result.length; i++) {
             document.querySelector(".emoji_list").innerHTML += '<div class="emoji_compare"><div class="twemoji"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/'+result[i].path+'" width="32"></div><div class="peachmoji"><img src="./assets/'+result[i].path+'" width="32"></div></div>'
